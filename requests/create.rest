@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/dreams
+Content-Type: application/json 
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpvaG4iLCJpZCI6IjVmMjExYWY0YTAyZGU2MDljODkwYzFkNSIsImlhdCI6MTU5NjAwNTEyOH0.g4HnZnPT7oyA2v_M64vnCaSqWDuWAB0oHYc2eQro4uU
+
+{
+  "title": "testing",
+  "content": "Single page apps use token authentication",
+  "userId": "5f20d81acae417237c84fc83"
+}

@@ -1,0 +1,7 @@
+PUT http://localhost:3000/api/dreams/5f22607b17ef9c28686870c7
+Content-Type: application/json
+
+{
+  "title": "vsclient",
+  "content": "updated"
+}
